@@ -22,3 +22,13 @@ chmod +x api.sh;
 ## Saber quais campos e tabelas editar, e outras documentações
 
 http://wiki.ixcsoft.com.br/index.php/Documenta%C3%A7%C3%A3o_API
+
+## Para somente imprimir as requisiõçes curl!
+
+chmod +x api.sh;
+
+### Exemplo 
+
+./api-curl-exemplo.sh 
+
+./api-curl-exemplo.sh -f cliente -a GET
