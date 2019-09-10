@@ -14,4 +14,4 @@ cd API-IXCSoft-SHELL/;
 
 chmod +x api.sh;
 
-./api.sh -- help; 
+./api.sh --help; 
